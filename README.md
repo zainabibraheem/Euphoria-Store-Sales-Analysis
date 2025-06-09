@@ -60,12 +60,43 @@ Year-over-Year (% YoY) Growth, Previous Year Sales, and Profit Margin. I also cr
 ![Screenshot 2025-06-07 143828](https://github.com/user-attachments/assets/8b6fb7b5-12ab-4336-b399-36e7f95670f3)
 
    
+## Insights 
+1. The Corporate Segment was the most profitable throughout the years with 123K in 2020, 154K in 2021, 170K in 2022, and 162K in 2023.
 
-![Screenshot 2025-06-07 180555](https://github.com/user-attachments/assets/6d1801e9-8279-46bd-bdb9-9c89a3a7507a)
+2. Europe has been the most profitable market throughout the years, followed by Asia Pacific. Since 2020, Europe has been the most profitable market, generating $330K in total profit. It was followed by Asia Pacific, USCA, and LATAM, each contributing over $220K. Africa, while showing growth, remained the lowest at $70K.
+
+3. The best-selling products were Herbal Essences Bio (68K), Rose Gold Petal Studs(30K), and Sterling Wave Earrings (30K).
+
+4. The top three best-selling categories are Body Care (2.68M), Home and Accessories (1.25M), and Makeup (1.12M).
+
+5. The top 3 best selling subcategories are Nail care products (788K), Shampoos and Conditioners (619K) and, Eye shadows and pencils (605K).
+
+6. There is a consistent decline in both sales and profits in July for all the years. There is a steady growth in both profit and sales at the end of the year, except for 2020.
+
+7. The brand does not have a good discount strategy. There was an increase in discount every year that translated into increased profits until 2022, were profits gradually reduced despite the increase in discount.
+
+8. The top 10 customers are not consistent over the years 
+
+9. United States contributed the most to Makeup, Hair care, Face care, and Body care, whereas Mexico topped the Home and Accessories category. The dominant countries in profitability are United States, France, Mexico, Germany, and China across all the categories.
 
 
+## Recommendations
+1. The brand needs to focus on Europe and Asia Pacific for profit maximization. 
 
-![Screenshot 2025-06-07 180626](https://github.com/user-attachments/assets/00288e4e-1340-4353-9926-d0f93a4eda4d)
+2. Review the discount strategy: 
+Discounts worked until 2022, now they’re eating into profits. The brand needs to shift towards value-based promotions, e.g., loyalty points, free shipping, and product bundles, instead of discounts.
+
+
+3. Focus on high-margin products 
+Herbal Essences Bio, jewelry, and body care categories are top performers. The brand needs to optimize and promote these products more heavily to achieve their annual overall sales growth target of 20%
+
+4. Revise marketing strategies in Africa market to boost profits.
+
+5.Corporate Segment 
+The corporate segment has never met target of 30% annual sales target. In fact, there was a drop from 26.60% in 2022 to 24.30% in 2020. Explore premium B2B deals, loyalty programs, and Focused marketing efforts on corporate segment.
+
+Tools:
+Power Query, Power BI
 
 
 
