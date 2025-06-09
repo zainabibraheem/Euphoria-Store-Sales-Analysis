@@ -52,6 +52,13 @@ Year-over-Year (% YoY) Growth, Previous Year Sales, and Profit Margin. I also cr
 
 ![Screenshot 2025-06-07 143528](https://github.com/user-attachments/assets/f5949c7e-23d3-490e-bbff-040f00e6c4fa)
 
+
+![Screenshot 2025-06-07 143758](https://github.com/user-attachments/assets/452755a8-5644-46c2-bad6-2b693e0095f2)
+
+
+
+![Screenshot 2025-06-07 143828](https://github.com/user-attachments/assets/8b6fb7b5-12ab-4336-b399-36e7f95670f3)
+
    
 
 ![Screenshot 2025-06-07 180555](https://github.com/user-attachments/assets/6d1801e9-8279-46bd-bdb9-9c89a3a7507a)
